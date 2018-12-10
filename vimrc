@@ -25,7 +25,7 @@ colorscheme gruvbox
 
 
 let g:airline#extensions#tabline#enabled = 1
-let g:airline_powerline_fonts = 1
+let g:airline_powerline_fonts = 0
 
 map <F10> :NERDTreeToggle<CR>
 map <F9> :Tlist<CR>
