@@ -20,9 +20,8 @@ let g:gruvbox_italic='1'
 let g:gruvbox_bold='1'
 let g:gruvbox_contrast_dark='medium'
 set termguicolors
-set background=dark 
+set background=dark
 colorscheme gruvbox
-
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 0
